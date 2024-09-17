@@ -1,5 +1,5 @@
 # Responsive Restaurant Website
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
+## [project link]([https://youtu.be/5RIFrZEjURA](https://abhishek0020.github.io/responsive-website-restaurant/))
 ### Responsive Restaurant Website
 
 - Responsive Restaurant Website Design Using HTML CSS & JavaScript
